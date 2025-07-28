@@ -10,6 +10,7 @@ div {
 *{
     padding: 0;
     margin: 0;
+    font-family: arial;
 }
 a:visited{
     color: rgb(0, 255, 42);
@@ -23,7 +24,7 @@ a:hover{
 }
 p:first-child{
     background-color: gray;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 a{
     text-decoration: none;
@@ -37,11 +38,12 @@ h1 {
     color: aliceblue;
     text-align: center;
     font-weight: 900;
-    word-spacing: 50px;
-    letter-spacing: 30px;
+    word-spacing: 3.125rem;
+    letter-spacing: 1.875rem;
+    font-size: 5rem;
     
 }
 .lorem{
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
