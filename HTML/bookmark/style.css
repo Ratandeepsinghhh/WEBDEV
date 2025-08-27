@@ -4,3 +4,18 @@ body{
     text-align: center;
     
 }
+#bookmark{
+    display: inline-block;
+    text-decoration: underline;
+    margin: 10px;
+    background-color: rgb(7, 152, 152);
+    color: black;
+    border-radius: 5px;
+    
+    
+}
+#Entertainment{
+    background-color: rgb(3, 72, 21);
+    margin: 10px;
+    display: inline-block;
+}
