@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+#outer{
+    height: 20rem;
+    width: 20rem;
+    background-color: white;
+    
+}
+#face{
+    height: 18rem;
+    width: 18rem;
+    background-color: #ffa511;
+    border-radius: 50%;
+}
+#eye{
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    border-radius: 50%;
+    
+
+}
+.eye1{
+    position: absolute;
+    top:5rem;
+    left: 5rem;
+}
+.eye2{
+     position: absolute;
+    top:5rem;
+    left: 12rem;
+}
+.smile{
+    background-color: brown;
+    height: 5rem;
+    width: 10rem;
+    position: absolute;
+    top:10rem;
+    left: 4.4rem;
+    border-radius: 0rem 0rem 10rem 10rem;
+}
