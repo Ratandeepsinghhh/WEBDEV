@@ -42,13 +42,13 @@ input[placeholder="password"]{
     color: #fa2a06;
 }
 button:hover{
-    background-color: rgb(252, 0, 0);
+    background-color: rgb(206, 18, 18);
 }
 h3:hover{
     text-decoration: none;
 }
 button:active{
-    background-color: rgb(169, 91, 104);
+    background-color: rgb(183, 32, 54);
 }
 p:active{
     font-weight: 900;
